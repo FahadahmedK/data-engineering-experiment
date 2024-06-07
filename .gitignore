@@ -1,0 +1,11 @@
+# env
+venv
+
+# cache
+__pycache__
+
+# database
+ny_taxi_postgres_data
+
+# files
+output.csv.gz
